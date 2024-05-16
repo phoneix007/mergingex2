@@ -1,1 +1,2 @@
 hello from master
+adding line 2
